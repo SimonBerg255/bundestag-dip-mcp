@@ -15,7 +15,7 @@ from tools import (
 ####### SERVER #######
 
 icon = Icon(
-    src="https://www.bundestag.de/resource/image/196108/16x9/999/562/fa5e3b26f9a5a60e01e4bfadffa50bc4/A31C6F2B4F5D63E2EA58A779C3895E74/bt-logo.jpg",
+    src="https://raw.githubusercontent.com/SimonBerg255/bundestag-dip-mcp/main/icon.png",
 )
 
 INSTRUCTION_STRING = """
